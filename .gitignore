@@ -1,0 +1,2 @@
+node_modules
+# .env file should also exclude but ke[pt for sending env file to for evaluation
